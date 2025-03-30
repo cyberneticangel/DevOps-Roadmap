@@ -7,19 +7,6 @@
 ✅ **Version Control** (Git, GitHub/GitLab workflows)  
 ✅ **Programming Basics** (Python/Bash scripting)
 
-%% DevOps Learning Path Diagram
-flowchart TD
-    A[Phase 1: Foundations] --> B[Phase 2: CI/CD]
-    B --> C[Phase 3: Cloud & Containers]
-    C --> D[Phase 4: Advanced DevOps]
-    D --> E[Phase 5: Production-Grade]
-    
-    A -->|Linux, Git, Scripting| A1(Linux/Bash/Python)
-    B -->|Jenkins, Terraform| B1(CI/CD Pipelines)
-    C -->|K8s, Helm, AWS| C1(Cloud Architecture)
-    D -->|Istio, GitOps| D1(Service Mesh)
-    E -->|SRE, Multi-Cloud| E1(Observability)
-
 ### 🛠️ Tools to Learn
 - `Git` (Version Control)  
 - `Docker` (Containerization Basics)  
